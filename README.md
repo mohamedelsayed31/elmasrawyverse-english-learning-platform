@@ -33,12 +33,10 @@ The platform includes separate experiences for:
 
 ## Screenshots
 
-> Place the screenshots inside `docs/screenshots/` using the filenames shown below.
-
 ### Home
 
 <p align="center">
-  <img src="docs/screenshots/01-home.png" alt="ElmasrawyVerse Home Page" width="95%">
+  <img src="docs/screenshots/home.png" alt="ElmasrawyVerse Home Page" width="95%">
 </p>
 
 ### Platform Preview
@@ -46,47 +44,51 @@ The platform includes separate experiences for:
 <table>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/02-public-courses.png" alt="Public Courses">
+      <img src="docs/screenshots/public-courses.png" alt="Public Courses">
       <br><b>Public Courses</b>
     </td>
     <td width="50%">
-      <img src="docs/screenshots/03-student-dashboard.png" alt="Student Dashboard">
+      <img src="docs/screenshots/student-dashboard.png" alt="Student Dashboard">
       <br><b>Student Dashboard</b>
     </td>
   </tr>
+
   <tr>
     <td>
-      <img src="docs/screenshots/04-my-courses.png" alt="My Courses">
+      <img src="docs/screenshots/my-courses.png" alt="My Courses">
       <br><b>My Courses</b>
     </td>
     <td>
-      <img src="docs/screenshots/05-course-learning.png" alt="Course Learning">
+      <img src="docs/screenshots/course-learning.png" alt="Course Learning">
       <br><b>Course Learning</b>
     </td>
   </tr>
+
   <tr>
     <td>
-      <img src="docs/screenshots/06-assessment.png" alt="Assessment">
+      <img src="docs/screenshots/assessment.png" alt="Assessment">
       <br><b>Assessment Experience</b>
     </td>
     <td>
-      <img src="docs/screenshots/07-assessment-result.png" alt="Assessment Result">
+      <img src="docs/screenshots/assessment-result.png" alt="Assessment Result">
       <br><b>Assessment Result</b>
     </td>
   </tr>
+
   <tr>
     <td>
-      <img src="docs/screenshots/08-certificate.png" alt="Certificate">
+      <img src="docs/screenshots/certificate.png" alt="Certificate">
       <br><b>Course Certificate</b>
     </td>
     <td>
-      <img src="docs/screenshots/09-admin-dashboard.png" alt="Admin Dashboard">
+      <img src="docs/screenshots/admin-dashboard.png" alt="Admin Dashboard">
       <br><b>Admin Dashboard</b>
     </td>
   </tr>
+
   <tr>
     <td colspan="2" align="center">
-      <img src="docs/screenshots/10-question-bank.png" alt="Question Bank" width="75%">
+      <img src="docs/screenshots/question-bank.png" alt="Question Bank" width="75%">
       <br><b>Question Bank</b>
     </td>
   </tr>
